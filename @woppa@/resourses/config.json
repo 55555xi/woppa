@@ -1,0 +1,10 @@
+{
+  "woppa_hotkey": "0x6",
+  "exit_hotkey": "0x7A",
+  "base_woppa": 0.01,
+  "random_woppa": 30,
+  "tolerance": 35,
+  "threshold": 1,
+  "woppa_lower": [140,110,150],
+  "woppa_upper": [150,195,255] 
+}
