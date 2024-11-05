@@ -40,10 +40,10 @@ def getchecksum():
     return digest
 
 keyauthapp = api(
-    name="woppa",  # Application Name
-    ownerid="OCpqVmrZx0",  # Owner ID
-    secret="4f8fc6c005696e4845666e5f39877df56ec8fd8fc25c1377ed5f116d7afa644d",  # Application Secret
-    version="1.0",  # Application Version
+    name="xeapo",  # Application Name
+    ownerid="xeapo",  # Owner ID
+    secret="xeapo",  # Application Secret
+    version="dc:821.",  # Application Version
     hash_to_check=getchecksum()
 )
 def answer():
